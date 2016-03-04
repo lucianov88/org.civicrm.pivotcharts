@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/pivotchart</path>
+    <page_callback>CRM_Pivotcharts_Page_PivotChart</page_callback>
+    <title>PivotChart</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
